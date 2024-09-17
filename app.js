@@ -59,7 +59,7 @@
 		const { width } = firstPage.getSize();
 
 		// Ajouter la signature en bas à droite
-		firstPage.drawText('Signature Automatique', {
+		firstPage.drawText('Guy Orel André', {
 			x: width - 150, // Bas à droite
 			y: 50,
 			size: 20,
