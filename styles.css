@@ -24,7 +24,7 @@
 
 	/* Section principale */
 	main {
-		background-color: white;
+		background-color: bleue;
 		padding: 20px;
 		border-radius: 10px;
 		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@
 	}
 
 	h2 {
-		color: #333;
+		color: #633;
 	}
 
 	input[type="file"] {
@@ -64,7 +64,7 @@
 	/* Boutons */
 	.btn {
 		background-color: #4CAF50;
-		color: white;
+		color: red;
 		padding: 10px 15px;
 		border: none;
 		border-radius: 5px;
